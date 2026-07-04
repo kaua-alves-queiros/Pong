@@ -1,0 +1,23 @@
+# Build directories
+[Bb]in/
+[Oo]bj/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoGame/XNA intermediate content
+/Content/bin/
+/Content/obj/
+
+# IDE/Editor files
+.vscode/
+.vs/
+.idea/
